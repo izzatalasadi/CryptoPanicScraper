@@ -45,7 +45,3 @@ To use this scraper, you need to have the following installed:
 - `pathlib`
 - `logging`
 
-### Install required packages:
-
-```bash
-pip install -r requirments.txt
